@@ -1,0 +1,88 @@
+{
+  "site": {
+    "title": "",
+    "subtitle": ""
+  },
+  "cards": [
+    {
+      "id": "c_music",
+      "title": "Music API",
+      "description": "Advanced audio processing and streaming orchestration for digital experiences.",
+      "icon": "music_note",
+      "gradientFrom": "#a855f7",
+      "gradientTo": "#ec4899",
+      "image": "./images/music-api-moxwes7n26ym.png",
+      "link": "#"
+    },
+    {
+      "id": "c_ink",
+      "title": "Ink Engine",
+      "description": "Native handwriting recognition and low-latency digital ink rendering.",
+      "icon": "edit",
+      "gradientFrom": "#60a5fa",
+      "gradientTo": "#67e8f9",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_vision",
+      "title": "Vision Core",
+      "description": "Real-time object detection and computer vision for web applications.",
+      "icon": "videocam",
+      "gradientFrom": "#fb923c",
+      "gradientTo": "#fde047",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_sync",
+      "title": "Sync Hub",
+      "description": "Automated state management and cross-device data synchronization.",
+      "icon": "cloud_sync",
+      "gradientFrom": "#4ade80",
+      "gradientTo": "#059669",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_insights",
+      "title": "Insights Pro",
+      "description": "Deep telemetry and user behavior mapping for data-driven growth.",
+      "icon": "query_stats",
+      "gradientFrom": "#6366f1",
+      "gradientTo": "#1d4ed8",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_agent",
+      "title": "Agent Core",
+      "description": "Natural language processing and intelligent task automation for users.",
+      "icon": "smart_toy",
+      "gradientFrom": "#f87171",
+      "gradientTo": "#e11d48",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_vault",
+      "title": "Vault Secure",
+      "description": "Enterprise-grade encryption and biometric authentication services.",
+      "icon": "security",
+      "gradientFrom": "#475569",
+      "gradientTo": "#0f172a",
+      "image": "",
+      "link": "#"
+    },
+    {
+      "id": "c_nexus",
+      "title": "Nexus Data",
+      "description": "High-performance relational and document storage for modern apps.",
+      "icon": "database",
+      "gradientFrom": "#2dd4bf",
+      "gradientTo": "#34d399",
+      "image": "",
+      "link": "#"
+    }
+  ]
+}
