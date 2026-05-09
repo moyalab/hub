@@ -12,7 +12,7 @@
       "gradientFrom": "#4f5fe8",
       "gradientTo": "#7568f5",
       "image": "./images/python-ide.svg",
-      "link": "#",
+      "link": "https://moyalab.github.io/pythonide/",
       "status": "public"
     },
     {
@@ -23,7 +23,7 @@
       "gradientFrom": "#10b981",
       "gradientTo": "#34d399",
       "image": "./images/firmuploader.svg",
-      "link": "#",
+      "link": "https://moyalab.github.io/firmuploader/",
       "status": "public"
     },
     {
@@ -34,7 +34,7 @@
       "gradientFrom": "#fb923c",
       "gradientTo": "#fde047",
       "image": "./images/mpyide.svg",
-      "link": "#",
+      "link": "https://moyalab.github.io/mpyide/",
       "status": "public"
     },
     {
