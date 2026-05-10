@@ -16,6 +16,17 @@
       "status": "public"
     },
     {
+      "id": "c_micropython",
+      "title": "마이크로파이썬 웹 에디터 ",
+      "description": "비트블록 보드에 파이썬으로 만든 프로그램을 업로드할 수 있습니다.",
+      "icon": "code",
+      "gradientFrom": "#fb923c",
+      "gradientTo": "#fde047",
+      "image": "./images/mpyide.svg",
+      "link": "https://moyalab.github.io/mpyide/",
+      "status": "public"
+    },
+    {
       "id": "c_firmware_uploader",
       "title": "펌웨어 업로더",
       "description": "비트블록 보드의 펌웨어를 업로드합니다.",
@@ -27,26 +38,15 @@
       "status": "public"
     },
     {
-      "id": "c_micropython",
-      "title": "마이크로파이썬 웹 에디터 (오픈 예정)",
-      "description": "비트블록 보드에 파이썬으로 만든 프로그램을 업로드할 수 있습니다.",
-      "icon": "code",
-      "gradientFrom": "#fb923c",
-      "gradientTo": "#fde047",
-      "image": "./images/mpyide.svg",
-      "link": "https://moyalab.github.io/mpyide/",
-      "status": "public"
-    },
-    {
       "id": "c_coming_soon",
-      "title": "오픈 예정",
+      "title": "곧 오픈 ...",
       "description": "새로운 서비스를 준비 중입니다.",
       "icon": "smart_toy",
       "gradientFrom": "#f87171",
       "gradientTo": "#e11d48",
       "image": "",
       "link": "#",
-      "status": "private"
+      "status": "empty"
     }
   ]
 }
