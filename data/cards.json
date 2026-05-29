@@ -12,7 +12,7 @@
       "gradientFrom": "#0066cc",
       "gradientTo": "#2997ff",
       "image": "./images/bitblock.svg",
-      "link": "https://moyalab.github.io/bitblockai/",
+      "link": "http://bitblockai.kamibot.com/",
       "status": "public"
     },
     {
@@ -23,7 +23,7 @@
       "gradientFrom": "#4f5fe8",
       "gradientTo": "#7568f5",
       "image": "./images/python-ide.svg",
-      "link": "https://moyalab.github.io/pythonide/",
+      "link": "http://pyide.kamibot.com/",
       "status": "public"
     },
     {
@@ -34,7 +34,7 @@
       "gradientFrom": "#fb923c",
       "gradientTo": "#fde047",
       "image": "./images/mpyide.svg",
-      "link": "https://moyalab.github.io/mpyide/",
+      "link": "http://mpyide.kamibot.com/",
       "status": "public"
     },
     {
@@ -45,7 +45,7 @@
       "gradientFrom": "#10b981",
       "gradientTo": "#34d399",
       "image": "./images/firmuploader.svg",
-      "link": "https://moyalab.github.io/firmuploader/",
+      "link": "http://firmware.kamibot.com/",
       "status": "public"
     },
     {
