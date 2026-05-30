@@ -49,6 +49,18 @@
       "status": "public"
     },
     {
+      "id": "c_mprvy9whul4qf",
+      "title": "카미봇 자율주행",
+      "description": "AI와 카미봇을 사용해 자율주행 프로그램을 작성합니다.",
+      "icon": "star",
+      "gradientFrom": "#0066cc",
+      "gradientTo": "#2997ff",
+      "image": "./images/steering_wheel_signal.svg",
+      "link": "http://selfdriving.kamibot.com/",
+      "status": "public",
+      "imageScale": 55
+    },
+    {
       "id": "c_coming_soon",
       "title": "곧 오픈 ...",
       "description": "새로운 서비스를 준비 중입니다.",
