@@ -58,7 +58,19 @@
       "image": "./images/steering_wheel_signal.svg",
       "link": "http://selfdriving.kamibot.com/",
       "status": "public",
-      "imageScale": 55
+      "imageScale": 45
+    },
+    {
+      "id": "c_mpuzqjlq2adx2",
+      "title": "페이스로봇",
+      "description": "사람의 얼굴을 인식하고 얼굴의 위치를 파악해서 페이스 로봇을 움직입니다.  ",
+      "icon": "star",
+      "gradientFrom": "#fc642c",
+      "gradientTo": "#fdaf2a",
+      "image": "./images/face-robot-outline.svg",
+      "link": "http://facerobot.kamibot.com/",
+      "status": "public",
+      "imageScale": 50
     },
     {
       "id": "c_coming_soon",
