@@ -73,6 +73,18 @@
       "imageScale": 50
     },
     {
+      "id": "c_mqkukykgrkk8u",
+      "title": "데이터 분석",
+      "description": "데이터 파일을 읽어서 분석하거나, 센서값을 수집해서 데이터를 학습하고, 학습된 모델로 데이터를 예측합니다.",
+      "icon": "star",
+      "gradientFrom": "#129b6e",
+      "gradientTo": "#34d399",
+      "image": "./images/data-analysis.svg",
+      "link": "http://data.kamibot.com/",
+      "status": "public",
+      "imageScale": 40
+    },
+    {
       "id": "c_coming_soon",
       "title": "곧 오픈 ...",
       "description": "새로운 서비스를 준비 중입니다.",

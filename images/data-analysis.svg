@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="데이터 분석">
+  <rect x="0" y="0" width="48" height="48" rx="11" fill="#15A05D"/>
+  <!-- 표 헤더 줄 -->
+  <rect x="9" y="11" width="30" height="6" rx="2" fill="#ffffff"/>
+  <!-- 본문 셀 2행 × 3열 -->
+  <rect x="9"    y="19.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="19.5" y="19.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="30"   y="19.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="9"    y="28.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="19.5" y="28.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+  <rect x="30"   y="28.5" width="9" height="7" rx="1.5" fill="#ffffff"/>
+</svg>
