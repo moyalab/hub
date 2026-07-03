@@ -39,14 +39,15 @@
     },
     {
       "id": "c_firmware_uploader",
-      "title": "펌웨어 업로더",
+      "title": "펌웨어 업로더 (비트블록)",
       "description": "비트블록 보드의 펌웨어를 업로드합니다.",
       "icon": "memory",
       "gradientFrom": "#10b981",
       "gradientTo": "#34d399",
       "image": "./images/firmuploader.svg",
       "link": "http://firmware.kamibot.com/",
-      "status": "public"
+      "status": "public",
+      "imageScale": 85
     },
     {
       "id": "c_mprvy9whul4qf",
@@ -83,6 +84,18 @@
       "link": "http://data.kamibot.com/",
       "status": "public",
       "imageScale": 40
+    },
+    {
+      "id": "c_mr4qtbvzuege0",
+      "title": "펌웨어 업로더 (카미봇파이)",
+      "description": "Describe what this service does.",
+      "icon": "star",
+      "gradientFrom": "#8709aa",
+      "gradientTo": "#dc50d1",
+      "image": "./images/pifirmup.svg",
+      "link": "http://pifirmup.kamibot.com/",
+      "status": "public",
+      "imageScale": 90
     },
     {
       "id": "c_coming_soon",

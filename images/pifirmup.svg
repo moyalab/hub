@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" width="320" height="96" role="img" aria-label="Firmware Uploader for KAMIBOT PI">
+  <g transform="translate(20 20)" fill="#ffffff">
+    <rect x="0"  y="0"  width="24" height="24" rx="4"/>
+    <rect x="32" y="0"  width="24" height="24" rx="4"/>
+    <rect x="0"  y="32" width="24" height="24" rx="4"/>
+    <rect x="32" y="32" width="24" height="24" rx="4"/>
+  </g>
+  <text x="92" y="46" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Firmware Uploader</text>
+  <text x="92" y="70" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="1.6" fill="#ffffff">KAMIBOT PI</text>
+</svg>
