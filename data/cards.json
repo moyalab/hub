@@ -13,7 +13,8 @@
       "gradientTo": "#2997ff",
       "image": "./images/bitblock.svg",
       "link": "http://bitblockai.kamibot.com/",
-      "status": "public"
+      "status": "public",
+      "imageScale": 70
     },
     {
       "id": "c_python_ide",
@@ -24,7 +25,8 @@
       "gradientTo": "#7568f5",
       "image": "./images/python-ide.svg",
       "link": "http://pyide.kamibot.com/",
-      "status": "public"
+      "status": "public",
+      "imageScale": 85
     },
     {
       "id": "c_micropython",
@@ -35,7 +37,8 @@
       "gradientTo": "#fde047",
       "image": "./images/mpyide.svg",
       "link": "http://mpyide.kamibot.com/",
-      "status": "public"
+      "status": "public",
+      "imageScale": 90
     },
     {
       "id": "c_firmware_uploader",
@@ -47,7 +50,7 @@
       "image": "./images/firmuploader.svg",
       "link": "http://firmware.kamibot.com/",
       "status": "public",
-      "imageScale": 85
+      "imageScale": 80
     },
     {
       "id": "c_mprvy9whul4qf",
@@ -71,7 +74,7 @@
       "image": "./images/face-robot-outline.svg",
       "link": "http://facerobot.kamibot.com/",
       "status": "public",
-      "imageScale": 50
+      "imageScale": 45
     },
     {
       "id": "c_mqkukykgrkk8u",
@@ -95,7 +98,19 @@
       "image": "./images/pifirmup.svg",
       "link": "http://pifirmup.kamibot.com/",
       "status": "public",
-      "imageScale": 90
+      "imageScale": 80
+    },
+    {
+      "id": "c_mr5vs368r6h30",
+      "title": "블루투스 이름 변경",
+      "description": "카미봇파이와 비트블록의 블루투스 이름을 변경하는 기능입니다.",
+      "icon": "star",
+      "gradientFrom": "#353636",
+      "gradientTo": "#b3b5b7",
+      "image": "./images/chname.svg",
+      "link": "http://chname.kamibot.com/",
+      "status": "public",
+      "imageScale": 35
     },
     {
       "id": "c_coming_soon",

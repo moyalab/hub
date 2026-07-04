@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 460" width="500" height="460">
-  <g fill="none" stroke="#ffffff" stroke-width="9"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 385" width="500" height="385">
+  <g fill="none" stroke="#ffffff" stroke-width="12.6"
      stroke-linejoin="round" stroke-linecap="round">
 
     <!-- ===== 머리 외곽 (각진 장갑판) ===== -->
@@ -57,10 +57,5 @@
     <!-- 좌우 측면 노브 -->
     <path d="M140,300 L122,294 L122,322 L140,316"/>
     <path d="M360,300 L378,294 L378,322 L360,316"/>
-
-    <!-- ===== 목 (분절 기둥) ===== -->
-    <path d="M216,363 L284,363 L284,448 L216,448 Z"/>
-    <line x1="240" y1="363" x2="240" y2="448"/>
-    <line x1="260" y1="363" x2="260" y2="448"/>
   </g>
 </svg>

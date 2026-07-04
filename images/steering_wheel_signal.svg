@@ -1,20 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" width="50" height="35">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50 20 100 100" width="48" height="48">
   <g fill="none" stroke="#ffffff" stroke-linecap="round">
-
-    <!-- Left signal waves -->
-    <g stroke-width="10">
-      <path d="M44 50 A38 38 0 0 0 44 90"/>
-      <path d="M28 42 A55 55 0 0 0 28 98"/>
-    </g>
-
-    <!-- Right signal waves -->
-    <g stroke-width="10">
-      <path d="M156 50 A38 38 0 0 1 156 90"/>
-      <path d="M172 42 A55 55 0 0 1 172 98"/>
-    </g>
-
     <!-- Steering wheel outer rim -->
-    <circle cx="100" cy="70" r="33" stroke-width="13"/>
+    <circle cx="100" cy="70" r="33" stroke-width="8.32"/>
   </g>
 
   <g fill="#ffffff">
@@ -22,7 +9,7 @@
     <circle cx="100" cy="70" r="11"/>
   </g>
 
-  <g stroke="#ffffff" stroke-width="13" stroke-linecap="round">
+  <g stroke="#ffffff" stroke-width="8.32" stroke-linecap="round">
     <!-- Spokes (T-bar) -->
     <line x1="100" y1="70" x2="100" y2="100"/>
     <line x1="100" y1="70" x2="74" y2="58"/>
