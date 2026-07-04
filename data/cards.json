@@ -91,7 +91,7 @@
     {
       "id": "c_mr4qtbvzuege0",
       "title": "펌웨어 업로더 (카미봇파이)",
-      "description": "Describe what this service does.",
+      "description": "카미봇파이의 펌웨어를 업데이트합니다.",
       "icon": "star",
       "gradientFrom": "#8709aa",
       "gradientTo": "#dc50d1",
